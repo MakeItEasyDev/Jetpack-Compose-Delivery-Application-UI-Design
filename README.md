@@ -1,1 +1,1 @@
-# Jetpack-Compose-Restaurant-Application-UI-Design
+# Jetpack-Compose-Delivery-Application-UI-Design
