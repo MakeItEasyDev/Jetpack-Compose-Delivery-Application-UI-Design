@@ -1,0 +1,5 @@
+<resources xmlns:size="http://schemas.android.com/tools">
+    <string name="app_name">RestaurantApp</string>
+
+    <string name="food_text"><font size = "50">The Fastest In Delivery</font></string>
+</resources>
